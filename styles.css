@@ -2,9 +2,9 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    color: #000000;
-    background-color: #f809fe;
-    line-height: 0.5;
+    color: #fff;
+    background-color: #111111;
+    line-height: 1.5;
 }
 
 .sidebar {
@@ -13,7 +13,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #ffffff;
+    background-color: #a30000;
     overflow-x: hidden;
     transition: 1s;
     padding-top: 0px;
