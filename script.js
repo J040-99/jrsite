@@ -9,6 +9,6 @@ function openNav() {
         sidebar.style.fontSize = "0x";
     } else {
         sidebar.style.width = "180px";
-        sidebar.style.fontSize = "25px";
+        sidebar.style.fontSize = "15px";
     }
 }
