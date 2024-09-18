@@ -6,9 +6,9 @@ function openNav() {
     var sidebar = document.getElementById("sidebar");
     if (sidebar.style.width === "180px") {
         sidebar.style.width = "0";
-        sidebar.style.fontSize = "0x";
+        sidebar.style.fontsize = "0x";
     } else {
         sidebar.style.width = "180px";
-        sidebar.style.fontSize = "15px";
+        sidebar.style.fontsize = "15px";
     }
 }
