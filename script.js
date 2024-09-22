@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 function openNav() {
     var sidebar = document.getElementById("sidebar");
-    if (sidebar.style.width === "180px") {
+    if (sidebar.style.width === "150px") {
         sidebar.style.width = "0";
         sidebar.style.fontsize = "0x";
     } else {
